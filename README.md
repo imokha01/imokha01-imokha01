@@ -35,6 +35,6 @@
 
 
 ## 🤝 Connect With Me
-[![Build Status](https://img.shields.io/badge/Ahmed-Wahab-brightgreen?style=for-the-badge)](https://www.linkedin.com/in/wahab-ahmed-79293665)
+[![Build Status](https://img.shields.io/badge/LinkedIn-Ahmed-Wahab-brightgreen?style=for-the-badge)](https://www.linkedin.com/in/wahab-ahmed-79293665)
 - Twitter: [Your Link]
 - Email: your@email.com
