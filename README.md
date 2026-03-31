@@ -1,16 +1,17 @@
-# Hi 👋, I'm Ahmed Wahab Imokha
+0 # Hi 👋, I'm Ahmed Wahab Imokha
 
 💻 Backend Developer | Node.js | System Design Enthusiast  
-🚀 Building Scalable APIs & Backend Systems  
+
+Building Scalable APIs & Backend Systems  
 
 ---
 
 ## 🧠 About Me
-- 🔭 Currently building: Real-world backend applications with Node.js  
-- 🌱 Learning: System Design, Scalable Architecture, and Databases  
-- 🎯 Goal: Become a Professional Backend Engineer  
-- 💬 Ask me about: APIs, JavaScript, Backend Development  
-- ⚡ Fun fact: I enjoy solving real-world problems with code  
+- Currently building: Real-world backend applications with Node.js  
+- Learning: System Design, Scalable Architecture, and Databases  
+- Goal: Become a Professional Backend Engineer  
+- Ask me about: APIs, JavaScript, Backend Development  
+- Fun fact: I enjoy solving real-world problems with code  
 
 ---
 
@@ -79,37 +80,38 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=imokha01&show_icons=true&theme=radical)
 
 ---
 
-## 🔥 Most Used Languages
+## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imokha01&layout=compact)
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/wahab-ahmed-79293665  
-- 🐦 Twitter: https://twitter.com/imokha2012  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Wahab-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wahab-ahmed-79293665)
+
+[![Twitter](https://img.shields.io/badge/Twitter-imokha2012-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imokha2012)
 
 ---
 
 ## 📌 What I'm Looking For
-- Backend Developer Roles (Internship / Junior)  
+- Backend Developer Roles
 - Open Source Contributions  
 - Collaboration on Backend Projects  
 
 ---
 
-## 📈 Current Focus
+## Current Focus
 - Building production-ready APIs  
 - Learning system design fundamentals  
 - Improving code structure & scalability  
 
 ---
 
-## 🧠 Backend Principles I Follow
+## Backend Principles I Follow
 - Clean Code & Modular Architecture  
 - RESTful API Design  
 - Proper Error Handling  
